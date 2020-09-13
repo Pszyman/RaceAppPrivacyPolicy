@@ -1,5 +1,5 @@
 # RaceAppPrivacyPolicy
-Privacy Policy for Android Race App
+Privacy Policy for Android Race App available at https://play.google.com/store/apps/details?id=com.raceapp.gauge_v4
 
 
 Privacy Policy
